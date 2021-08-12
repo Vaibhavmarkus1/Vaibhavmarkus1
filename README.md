@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA & Web Technologies.**
 
-- 👯 I’m looking to collaborate on **and participate in Coding contests & solve LeetCode problems together. and participate in Coding contests & solve LeetCode problems together. and participate in Coding contests & solve LeetCode problems together.**
+- 👯 I’m looking to collaborate on **and participate in Coding contests & solve LeetCode problems together.**
 
 - 📫 How to reach me **pvaibhav561@mail.com**
 
