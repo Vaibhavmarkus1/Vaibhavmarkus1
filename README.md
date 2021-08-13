@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavmarkus1&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavmarkus1" /> </p>
 
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" alt="vaibhavmarkus1" />
+
 - 🌱 I’m currently learning **DSA & Web Technologies.**
 
 - 👯 I’m looking to collaborate on **and participate in Coding contests & solve LeetCode problems together.**
