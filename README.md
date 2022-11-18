@@ -7,7 +7,7 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" alt="vaibhavmarkus1" />
 
-- 🌱 I’m currently learning **DSA & Web Technologies.**
+- 🌱 I’m currently Working **At deloitte as Analyst**
 
 - 👯 I’m looking to collaborate on **and participate in Coding contests & solve LeetCode problems together.**
 
